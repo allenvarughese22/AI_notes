@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ChatGPT Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        #chatbox {
+            border: 1px solid #ccc;
+            padding: 10px;
+            height: 400px;
+            overflow-y: scroll;
+            margin-bottom: 10px;
+        }
+        #userInput {
+            width: 80%;
+            padding: 10px;
+        }
+        #sendButton {
+            padding: 10px 20px;
+        }
+        .user-message {
+            color: blue;
+        }
+        .bot-message {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chat with GPT</h1>
+    <div id="chatbox"></div>
+    <input type="text" id="userInput" placeholder="Type your message here..." />
+    <button id="sendButton">Send</button>
+
+    <script>
+        async function sendMessage() {
+            const userInput = document.getElementById('userInput').value.trim();
+            if (userInput === "") return;
+
+            const chatbox = document.getElementById('chatbox');
+            chatbox.innerHTML += `<p class="user-message"><strong>You:</strong> ${userInput}</p>`;
+            document.getElementById('userInput').value = '';
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: userInput })
+                });
+
+                const data = await response.json();
+                if (data.response) {
+                    chatbox.innerHTML += `<p class="bot-message"><strong>Bot:</strong> ${data.response}</p>`;
+                } else if (data.error) {
+                    chatbox.innerHTML += `<p class="bot-message"><strong>Bot:</strong> Error: ${data.error}</p>`;
+                } else {
+                    chatbox.innerHTML += `<p class="bot-message"><strong>Bot:</strong> Sorry, I couldn't process that.</p>`;
+                }
+
+                chatbox.scrollTop = chatbox.scrollHeight;
+            } catch (error) {
+                console.error('Error:', error);
+                chatbox.innerHTML += `<p class="bot-message"><strong>Bot:</strong> An error occurred.</p>`;
+            }
+        }
+
+        document.getElementById('sendButton').addEventListener('click', sendMessage);
+        document.getElementById('userInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+    </script>
+</body>
+</html>
