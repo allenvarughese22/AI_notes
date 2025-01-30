@@ -1,0 +1,951 @@
+Date,Product,Category,Total Amount,Quantity,Month
+2023-11-13,Product B,Books,72.76,10,November
+2023-12-24,Product E,Clothing,139.19,8,December
+2023-11-21,Product C,Toys,138.09,4,November
+2023-09-09,Product C,Electronics,192.18,12,September
+2023-08-14,Product A,Toys,142.04,3,August
+2023-04-04,Product A,Electronics,154.99,10,April
+2023-07-26,Product A,Home Goods,181.96,11,July
+2023-10-31,Product D,Electronics,207.06,8,October
+2023-03-06,Product C,Books,143.77,2,March
+2023-07-29,Product C,Clothing,121.8,11,July
+2023-04-25,Product A,Home Goods,104.12,11,April
+2023-01-09,Product E,Electronics,85.65,13,January
+2023-04-29,Product D,Toys,138.0,3,April
+2023-08-21,Product A,Home Goods,115.64,12,August
+2023-10-31,Product A,Home Goods,151.06,3,October
+2023-01-13,Product A,Electronics,154.36,10,January
+2023-10-10,Product B,Home Goods,110.84,11,October
+2023-06-19,Product B,Toys,110.23,1,June
+2023-04-02,Product B,Home Goods,191.38,6,April
+2023-01-10,Product A,Toys,141.07,2,January
+2023-09-21,Product C,Electronics,106.13,1,September
+2023-08-30,Product A,Clothing,140.46,2,August
+2023-12-28,Product A,Home Goods,287.23,12,December
+2023-05-21,Product B,Clothing,162.75,6,May
+2023-03-04,Product B,Toys,153.63,14,March
+2023-12-26,Product D,Home Goods,109.33,4,December
+2023-03-27,Product A,Books,77.55,6,March
+2023-01-20,Product B,Clothing,192.07,12,January
+2023-10-03,Product C,Home Goods,152.73,9,October
+2023-06-16,Product A,Clothing,167.27,13,June
+2023-03-26,Product C,Home Goods,179.43,10,March
+2023-08-11,Product A,Electronics,128.62,12,August
+2023-03-30,Product A,Clothing,99.32,10,March
+2023-05-06,Product E,Books,172.02,8,May
+2023-11-21,Product E,Books,97.86,1,November
+2023-04-21,Product D,Toys,153.82,13,April
+2023-01-02,Product B,Home Goods,111.92,8,January
+2023-03-19,Product A,Clothing,188.39,9,March
+2023-06-10,Product C,Toys,157.97,6,June
+2023-02-14,Product B,Clothing,116.85,10,February
+2023-05-01,Product A,Home Goods,100.61,5,May
+2023-11-26,Product B,Books,141.63,6,November
+2023-02-25,Product A,Electronics,182.53,13,February
+2023-09-19,Product E,Books,185.2,6,September
+2023-05-11,Product A,Toys,193.66,9,May
+2023-09-19,Product C,Electronics,152.47,4,September
+2023-04-10,Product B,Toys,213.2,2,April
+2023-06-07,Product B,Home Goods,154.42,11,June
+2023-09-05,Product B,Electronics,111.04,11,September
+2023-04-12,Product A,Toys,119.0,9,April
+2023-07-16,Product E,Home Goods,199.38,2,July
+2023-11-02,Product D,Books,110.95,10,November
+2023-12-20,Product E,Home Goods,106.85,9,December
+2023-08-02,Product D,Clothing,223.43,2,August
+2023-10-06,Product C,Home Goods,153.67,12,October
+2023-06-12,Product E,Home Goods,153.93,8,June
+2023-04-29,Product A,Clothing,183.82,9,April
+2023-03-10,Product A,Toys,182.22,12,March
+2023-12-03,Product A,Toys,138.83,10,December
+2023-10-20,Product B,Clothing,228.51,10,October
+2023-02-14,Product A,Clothing,99.07,9,February
+2023-08-22,Product D,Books,161.41,2,August
+2023-08-12,Product B,Toys,110.4,4,August
+2023-02-05,Product A,Electronics,126.48,7,February
+2023-05-13,Product B,Toys,101.05,12,May
+2023-12-10,Product A,Toys,244.15,2,December
+2023-10-31,Product D,Books,146.88,1,October
+2023-07-26,Product A,Electronics,133.18,3,July
+2023-06-08,Product E,Books,148.2,12,June
+2023-05-19,Product D,Electronics,130.71,4,May
+2023-03-03,Product A,Home Goods,146.2,8,March
+2023-01-19,Product A,Electronics,164.41,6,January
+2023-06-08,Product D,Books,112.28,11,June
+2023-01-01,Product C,Toys,169.34,2,January
+2023-04-08,Product C,Electronics,123.58,9,April
+2023-04-07,Product A,Clothing,120.48,2,April
+2023-07-01,Product B,Toys,180.88,13,July
+2023-11-27,Product A,Home Goods,186.87,12,November
+2023-07-28,Product D,Books,140.63,5,July
+2023-07-06,Product C,Home Goods,279.84,12,July
+2023-02-25,Product B,Toys,157.08,4,February
+2023-09-03,Product A,Electronics,95.59,13,September
+2023-05-20,Product B,Electronics,177.92,7,May
+2023-09-10,Product B,Toys,236.05,8,September
+2023-04-26,Product C,Electronics,120.33,5,April
+2023-02-24,Product C,Electronics,97.66,10,February
+2023-01-25,Product D,Electronics,176.64,14,January
+2023-08-18,Product B,Books,138.96,14,August
+2023-11-19,Product A,Books,147.72,5,November
+2023-10-09,Product C,Clothing,149.78,2,October
+2023-12-20,Product D,Home Goods,124.68,8,December
+2023-07-31,Product C,Toys,129.17,14,July
+2023-01-28,Product D,Toys,130.22,2,January
+2023-09-28,Product B,Toys,142.54,10,September
+2023-01-08,Product B,Books,116.49,6,January
+2023-05-04,Product A,Clothing,202.97,8,May
+2023-09-26,Product A,Toys,133.37,6,September
+2023-06-08,Product A,Home Goods,196.62,4,June
+2023-10-24,Product B,Books,136.23,4,October
+2023-03-17,Product B,Books,148.21,6,March
+2023-07-10,Product E,Clothing,104.52,14,July
+2023-05-29,Product A,Books,149.43,13,May
+2023-06-23,Product B,Toys,166.01,4,June
+2023-01-17,Product D,Toys,169.44,8,January
+2023-04-18,Product A,Clothing,111.62,9,April
+2023-12-16,Product A,Toys,172.29,1,December
+2023-06-12,Product A,Home Goods,119.48,13,June
+2023-01-12,Product A,Clothing,232.91,4,January
+2023-07-02,Product E,Home Goods,160.46,4,July
+2023-10-12,Product D,Electronics,144.86,2,October
+2023-08-12,Product C,Home Goods,220.3,6,August
+2023-03-18,Product D,Electronics,152.7,3,March
+2023-02-28,Product D,Electronics,169.24,7,February
+2023-08-25,Product A,Home Goods,125.76,13,August
+2023-07-29,Product D,Clothing,102.7,11,July
+2023-01-26,Product B,Toys,174.34,11,January
+2023-05-25,Product D,Toys,233.13,5,May
+2023-02-07,Product D,Electronics,132.51,4,February
+2023-09-09,Product B,Electronics,130.87,5,September
+2023-02-15,Product A,Clothing,112.37,8,February
+2023-01-19,Product A,Books,78.18,3,January
+2023-12-29,Product B,Home Goods,141.76,14,December
+2023-01-16,Product D,Electronics,182.09,7,January
+2023-08-21,Product D,Toys,182.83,14,August
+2023-04-06,Product A,Clothing,107.26,6,April
+2023-03-15,Product B,Home Goods,164.63,12,March
+2023-10-25,Product B,Clothing,229.77,1,October
+2023-01-09,Product A,Home Goods,160.73,13,January
+2023-11-19,Product A,Home Goods,132.21,7,November
+2023-07-16,Product B,Electronics,116.34,14,July
+2023-10-14,Product E,Clothing,122.68,13,October
+2023-11-15,Product B,Clothing,205.84,7,November
+2023-07-29,Product C,Toys,110.33,12,July
+2023-09-05,Product B,Electronics,132.64,1,September
+2023-07-28,Product E,Books,196.43,6,July
+2023-04-01,Product A,Toys,95.49,12,April
+2023-04-29,Product B,Home Goods,67.67,2,April
+2023-08-09,Product B,Clothing,197.23,5,August
+2023-10-16,Product A,Electronics,90.71,13,October
+2023-11-16,Product A,Clothing,211.38,11,November
+2023-03-25,Product C,Clothing,302.01,4,March
+2023-09-26,Product B,Books,151.46,7,September
+2023-08-06,Product A,Toys,181.35,8,August
+2023-12-12,Product A,Electronics,170.07,11,December
+2023-11-05,Product E,Clothing,158.81,14,November
+2023-03-20,Product A,Electronics,121.8,11,March
+2023-12-09,Product A,Home Goods,104.69,1,December
+2023-02-26,Product B,Books,141.57,5,February
+2023-09-15,Product E,Home Goods,110.83,3,September
+2023-01-05,Product A,Electronics,159.94,1,January
+2023-02-25,Product C,Electronics,122.48,12,February
+2023-08-26,Product D,Toys,98.87,3,August
+2023-03-12,Product A,Clothing,165.83,14,March
+2023-12-26,Product C,Clothing,133.53,6,December
+2023-12-15,Product B,Home Goods,96.91,14,December
+2023-01-18,Product C,Books,198.39,7,January
+2023-08-15,Product C,Clothing,146.38,8,August
+2023-07-02,Product B,Toys,195.98,13,July
+2023-07-30,Product A,Home Goods,154.26,11,July
+2023-09-21,Product D,Home Goods,124.87,4,September
+2023-03-31,Product B,Toys,113.39,3,March
+2023-10-01,Product A,Books,172.18,5,October
+2023-10-04,Product A,Toys,229.76,9,October
+2023-07-10,Product C,Books,167.32,13,July
+2023-11-13,Product C,Toys,123.76,6,November
+2023-04-21,Product A,Toys,156.78,9,April
+2023-06-26,Product B,Electronics,108.86,6,June
+2023-06-28,Product A,Home Goods,166.84,2,June
+2023-08-15,Product A,Toys,127.93,5,August
+2023-12-01,Product C,Clothing,221.56,12,December
+2023-11-17,Product B,Home Goods,122.78,11,November
+2023-01-25,Product E,Clothing,156.06,9,January
+2023-01-11,Product A,Home Goods,179.45,8,January
+2023-09-29,Product B,Clothing,127.88,7,September
+2023-01-25,Product A,Toys,102.27,1,January
+2023-06-07,Product E,Toys,107.95,4,June
+2023-03-25,Product D,Electronics,130.82,12,March
+2023-02-21,Product A,Clothing,127.95,7,February
+2023-08-11,Product C,Books,142.63,11,August
+2023-04-01,Product D,Electronics,168.71,7,April
+2023-08-05,Product C,Clothing,187.01,6,August
+2023-08-26,Product B,Clothing,193.73,8,August
+2023-11-03,Product A,Electronics,263.39,11,November
+2023-07-15,Product A,Toys,113.64,13,July
+2023-04-29,Product D,Clothing,265.98,6,April
+2023-03-25,Product E,Toys,138.25,10,March
+2023-09-26,Product C,Electronics,134.2,3,September
+2023-02-06,Product B,Toys,183.98,4,February
+2023-07-01,Product B,Home Goods,121.43,14,July
+2023-04-05,Product C,Books,174.62,3,April
+2023-04-25,Product D,Clothing,226.12,1,April
+2023-09-13,Product D,Toys,182.03,5,September
+2023-01-06,Product C,Clothing,169.64,1,January
+2023-10-02,Product A,Toys,278.43,1,October
+2023-10-07,Product A,Home Goods,89.23,2,October
+2023-11-08,Product D,Electronics,123.51,13,November
+2023-03-07,Product C,Clothing,99.75,4,March
+2023-10-13,Product A,Home Goods,181.58,6,October
+2023-11-30,Product A,Home Goods,151.4,8,November
+2023-05-29,Product C,Clothing,238.36,13,May
+2023-06-07,Product A,Toys,102.81,3,June
+2023-08-26,Product A,Home Goods,138.66,1,August
+2023-02-17,Product C,Home Goods,132.09,12,February
+2023-03-09,Product C,Toys,128.52,3,March
+2023-11-04,Product A,Toys,123.26,5,November
+2023-07-10,Product C,Books,109.73,11,July
+2023-08-18,Product A,Home Goods,108.62,12,August
+2023-12-30,Product B,Toys,118.9,12,December
+2023-11-25,Product C,Clothing,91.14,4,November
+2023-04-11,Product C,Electronics,148.0,13,April
+2023-09-18,Product D,Electronics,124.48,4,September
+2023-09-11,Product C,Electronics,71.6,9,September
+2023-04-05,Product C,Home Goods,91.53,7,April
+2023-06-22,Product A,Books,71.35,4,June
+2023-01-10,Product B,Toys,93.66,3,January
+2023-11-09,Product A,Clothing,202.9,6,November
+2023-05-22,Product A,Clothing,148.66,3,May
+2023-02-24,Product E,Home Goods,123.91,6,February
+2023-06-26,Product B,Electronics,181.01,11,June
+2023-01-08,Product D,Home Goods,123.64,13,January
+2023-03-02,Product C,Books,96.51,11,March
+2023-01-13,Product D,Books,120.42,13,January
+2023-06-23,Product B,Toys,185.29,13,June
+2023-10-28,Product C,Toys,152.03,12,October
+2023-06-08,Product B,Books,193.11,9,June
+2023-09-06,Product A,Books,140.59,6,September
+2023-09-01,Product A,Home Goods,223.03,4,September
+2023-01-25,Product A,Books,115.92,5,January
+2023-01-18,Product C,Clothing,184.62,13,January
+2023-07-16,Product A,Electronics,101.49,6,July
+2023-09-01,Product E,Books,182.92,11,September
+2023-01-15,Product E,Electronics,168.42,3,January
+2023-11-14,Product E,Home Goods,183.36,8,November
+2023-02-22,Product B,Electronics,100.35,4,February
+2023-10-27,Product A,Home Goods,151.94,8,October
+2023-08-27,Product E,Clothing,112.24,10,August
+2023-11-19,Product B,Home Goods,88.07,10,November
+2023-09-04,Product E,Home Goods,109.72,3,September
+2023-10-12,Product E,Toys,213.41,10,October
+2023-08-28,Product D,Books,213.21,7,August
+2023-09-18,Product A,Books,102.21,11,September
+2023-02-05,Product B,Clothing,143.63,13,February
+2023-08-13,Product D,Clothing,164.24,12,August
+2023-01-02,Product B,Books,104.17,9,January
+2023-07-14,Product A,Toys,169.62,4,July
+2023-08-04,Product C,Books,188.85,8,August
+2023-01-10,Product E,Toys,135.52,3,January
+2023-05-15,Product C,Clothing,113.91,7,May
+2023-05-02,Product C,Electronics,135.99,3,May
+2023-12-17,Product A,Clothing,92.75,12,December
+2023-02-18,Product C,Clothing,196.33,7,February
+2023-05-24,Product E,Home Goods,129.58,14,May
+2023-07-07,Product A,Home Goods,200.45,11,July
+2023-09-22,Product B,Home Goods,149.13,10,September
+2023-08-27,Product D,Home Goods,108.68,10,August
+2023-03-07,Product C,Toys,77.73,11,March
+2023-09-26,Product C,Books,139.99,11,September
+2023-06-27,Product C,Electronics,129.18,6,June
+2023-05-30,Product B,Clothing,164.1,2,May
+2023-12-07,Product A,Toys,105.54,11,December
+2023-09-05,Product D,Electronics,136.82,3,September
+2023-06-01,Product D,Toys,163.2,6,June
+2023-02-04,Product D,Toys,163.49,14,February
+2023-07-08,Product E,Clothing,213.17,4,July
+2023-01-11,Product B,Books,206.72,6,January
+2023-03-10,Product B,Home Goods,148.22,1,March
+2023-07-06,Product D,Books,144.55,10,July
+2023-03-03,Product C,Clothing,85.91,1,March
+2023-03-21,Product D,Clothing,93.63,3,March
+2023-09-27,Product B,Books,141.79,8,September
+2023-08-20,Product B,Books,124.29,11,August
+2023-05-23,Product A,Toys,110.82,4,May
+2023-08-14,Product C,Toys,147.5,6,August
+2023-06-15,Product A,Toys,309.56,8,June
+2023-07-11,Product B,Clothing,85.04,7,July
+2023-08-05,Product B,Books,125.84,11,August
+2023-01-03,Product A,Clothing,194.7,7,January
+2023-10-23,Product C,Electronics,144.66,13,October
+2023-11-24,Product A,Toys,97.07,4,November
+2023-04-24,Product A,Clothing,150.91,9,April
+2023-04-11,Product D,Clothing,209.05,12,April
+2023-08-12,Product B,Electronics,122.55,10,August
+2023-11-23,Product A,Home Goods,169.92,6,November
+2023-08-14,Product B,Books,104.97,14,August
+2023-11-25,Product D,Home Goods,100.47,12,November
+2023-06-08,Product A,Toys,116.45,11,June
+2023-09-01,Product C,Clothing,164.4,3,September
+2023-12-03,Product A,Electronics,228.39,5,December
+2023-04-21,Product B,Books,116.98,14,April
+2023-12-29,Product B,Home Goods,146.64,5,December
+2023-08-15,Product C,Books,144.15,8,August
+2023-09-01,Product C,Clothing,174.52,9,September
+2023-05-06,Product E,Books,82.43,13,May
+2023-06-29,Product B,Electronics,139.98,9,June
+2023-09-04,Product B,Electronics,84.83,13,September
+2023-03-20,Product D,Toys,254.48,6,March
+2023-08-25,Product A,Toys,215.45,6,August
+2023-01-08,Product B,Clothing,111.82,9,January
+2023-11-29,Product A,Home Goods,267.42,4,November
+2023-03-19,Product E,Clothing,150.56,4,March
+2023-12-24,Product D,Toys,143.0,11,December
+2023-08-27,Product C,Books,95.38,1,August
+2023-01-24,Product B,Toys,191.43,7,January
+2023-12-24,Product A,Books,187.05,14,December
+2023-10-27,Product A,Home Goods,181.75,10,October
+2023-01-04,Product B,Books,198.18,12,January
+2023-08-17,Product C,Electronics,122.32,6,August
+2023-06-21,Product C,Electronics,194.36,9,June
+2023-12-27,Product A,Books,138.09,7,December
+2023-03-23,Product E,Books,128.76,13,March
+2023-12-05,Product C,Books,164.99,7,December
+2023-03-13,Product C,Electronics,165.94,2,March
+2023-05-28,Product C,Electronics,134.04,12,May
+2023-05-15,Product A,Toys,165.16,9,May
+2023-03-11,Product B,Toys,83.92,10,March
+2023-04-30,Product D,Home Goods,115.69,9,April
+2023-05-22,Product A,Clothing,158.62,6,May
+2023-08-26,Product A,Toys,101.48,13,August
+2023-11-06,Product A,Electronics,140.28,3,November
+2023-04-19,Product A,Toys,163.0,1,April
+2023-08-28,Product D,Home Goods,129.44,4,August
+2023-10-23,Product C,Home Goods,124.49,14,October
+2023-07-02,Product B,Clothing,116.32,14,July
+2023-10-07,Product A,Toys,150.97,3,October
+2023-08-05,Product B,Electronics,205.53,14,August
+2023-12-20,Product B,Electronics,126.85,12,December
+2023-02-02,Product A,Books,95.43,1,February
+2023-01-18,Product B,Electronics,175.79,3,January
+2023-02-20,Product B,Clothing,162.0,14,February
+2023-06-08,Product C,Clothing,263.04,14,June
+2023-09-28,Product A,Electronics,113.96,13,September
+2023-07-03,Product B,Books,105.4,13,July
+2023-09-02,Product C,Electronics,116.39,14,September
+2023-01-27,Product B,Books,228.07,8,January
+2023-11-16,Product D,Books,169.49,9,November
+2023-03-21,Product C,Electronics,183.01,3,March
+2023-02-14,Product A,Home Goods,177.32,6,February
+2023-07-16,Product A,Home Goods,189.57,10,July
+2023-12-12,Product C,Books,107.48,11,December
+2023-08-11,Product A,Electronics,293.24,5,August
+2023-01-02,Product C,Home Goods,136.2,6,January
+2023-12-02,Product E,Electronics,149.95,4,December
+2023-06-06,Product C,Electronics,185.56,10,June
+2023-08-01,Product B,Electronics,150.03,6,August
+2023-08-16,Product C,Toys,171.9,7,August
+2023-04-20,Product B,Electronics,136.19,9,April
+2023-09-23,Product B,Toys,146.76,10,September
+2023-10-10,Product E,Books,121.35,7,October
+2023-01-11,Product B,Home Goods,111.46,6,January
+2023-03-18,Product E,Home Goods,162.21,1,March
+2023-11-08,Product E,Home Goods,120.45,2,November
+2023-10-03,Product A,Home Goods,111.86,1,October
+2023-12-19,Product A,Home Goods,126.71,9,December
+2023-07-22,Product A,Books,156.34,9,July
+2023-12-19,Product C,Electronics,111.74,7,December
+2023-04-11,Product A,Clothing,131.5,13,April
+2023-11-16,Product B,Toys,158.21,2,November
+2023-03-05,Product D,Clothing,111.83,6,March
+2023-05-20,Product A,Clothing,218.92,11,May
+2023-07-03,Product D,Electronics,202.32,4,July
+2023-08-11,Product A,Electronics,170.35,1,August
+2023-09-14,Product A,Electronics,175.53,1,September
+2023-07-07,Product C,Home Goods,136.41,12,July
+2023-04-03,Product C,Books,129.27,5,April
+2023-05-16,Product D,Home Goods,256.55,12,May
+2023-04-10,Product C,Books,148.32,2,April
+2023-06-19,Product D,Books,130.54,4,June
+2023-08-20,Product A,Clothing,108.78,1,August
+2023-08-01,Product A,Clothing,147.78,4,August
+2023-07-12,Product D,Books,151.17,11,July
+2023-05-02,Product D,Books,146.94,6,May
+2023-06-25,Product E,Home Goods,174.8,10,June
+2023-02-19,Product B,Home Goods,131.93,4,February
+2023-12-06,Product B,Clothing,218.59,1,December
+2023-05-03,Product D,Electronics,121.5,7,May
+2023-07-22,Product B,Books,125.51,14,July
+2023-11-16,Product E,Home Goods,129.55,2,November
+2023-11-12,Product D,Clothing,135.29,9,November
+2023-03-06,Product B,Home Goods,116.53,13,March
+2023-03-08,Product D,Books,83.22,3,March
+2023-09-06,Product D,Books,115.38,8,September
+2023-07-05,Product A,Toys,173.22,13,July
+2023-08-29,Product E,Electronics,99.74,8,August
+2023-11-03,Product B,Toys,171.27,3,November
+2023-06-08,Product D,Clothing,258.51,4,June
+2023-12-07,Product B,Home Goods,209.16,2,December
+2023-06-16,Product D,Clothing,151.32,4,June
+2023-09-05,Product B,Books,124.39,11,September
+2023-11-03,Product A,Toys,127.19,11,November
+2023-10-06,Product E,Toys,149.97,11,October
+2023-06-15,Product A,Toys,173.58,14,June
+2023-03-07,Product B,Clothing,185.03,9,March
+2023-04-12,Product E,Home Goods,268.65,12,April
+2023-11-21,Product C,Home Goods,163.32,12,November
+2023-09-08,Product C,Clothing,117.25,13,September
+2023-09-20,Product B,Toys,173.27,3,September
+2023-05-18,Product A,Electronics,102.32,11,May
+2023-05-20,Product B,Clothing,108.35,11,May
+2023-07-27,Product C,Clothing,200.74,4,July
+2023-10-31,Product D,Books,167.53,5,October
+2023-03-01,Product D,Home Goods,156.95,1,March
+2023-05-21,Product D,Clothing,240.85,7,May
+2023-04-11,Product A,Clothing,164.14,14,April
+2023-08-24,Product B,Toys,152.17,10,August
+2023-07-13,Product A,Toys,139.05,7,July
+2023-07-05,Product B,Electronics,121.75,9,July
+2023-12-07,Product B,Books,164.43,4,December
+2023-06-28,Product D,Electronics,137.09,14,June
+2023-10-11,Product B,Toys,97.47,14,October
+2023-11-30,Product A,Home Goods,151.86,6,November
+2023-09-25,Product A,Toys,140.87,11,September
+2023-03-11,Product D,Books,200.76,2,March
+2023-10-06,Product C,Toys,73.72,12,October
+2023-07-16,Product A,Books,171.64,12,July
+2023-11-27,Product A,Books,142.07,14,November
+2023-03-31,Product C,Books,280.43,4,March
+2023-08-02,Product A,Books,92.12,2,August
+2023-01-30,Product D,Books,148.67,10,January
+2023-07-09,Product C,Home Goods,123.15,5,July
+2023-07-15,Product A,Clothing,168.42,13,July
+2023-04-14,Product E,Electronics,180.14,1,April
+2023-12-12,Product B,Books,167.95,10,December
+2023-02-06,Product B,Home Goods,138.17,10,February
+2023-04-14,Product D,Toys,162.08,7,April
+2023-01-16,Product E,Home Goods,168.09,10,January
+2023-04-17,Product E,Books,223.37,13,April
+2023-11-05,Product D,Home Goods,134.12,6,November
+2023-08-09,Product B,Home Goods,157.19,6,August
+2023-06-11,Product A,Books,196.72,12,June
+2023-06-20,Product D,Home Goods,187.56,8,June
+2023-01-09,Product C,Clothing,78.5,8,January
+2023-12-07,Product B,Clothing,123.73,6,December
+2023-02-22,Product E,Home Goods,165.08,3,February
+2023-01-18,Product A,Toys,111.39,5,January
+2023-01-15,Product B,Books,112.26,2,January
+2023-09-06,Product A,Clothing,143.02,14,September
+2023-08-18,Product B,Toys,172.51,5,August
+2023-04-30,Product A,Home Goods,115.18,14,April
+2023-07-29,Product A,Toys,154.18,9,July
+2023-02-19,Product A,Electronics,87.36,10,February
+2023-12-10,Product C,Clothing,126.24,1,December
+2023-11-01,Product C,Home Goods,208.1,10,November
+2023-05-27,Product C,Books,82.61,5,May
+2023-08-18,Product E,Home Goods,166.0,12,August
+2023-06-20,Product B,Books,174.72,6,June
+2023-07-06,Product A,Home Goods,163.73,14,July
+2023-08-15,Product D,Toys,110.73,11,August
+2023-01-18,Product A,Toys,166.23,7,January
+2023-01-06,Product E,Toys,237.87,9,January
+2023-07-04,Product A,Electronics,135.7,6,July
+2023-06-03,Product E,Books,151.02,5,June
+2023-08-04,Product A,Toys,130.34,12,August
+2023-10-29,Product D,Electronics,199.57,7,October
+2023-07-16,Product B,Books,148.28,13,July
+2023-02-13,Product E,Home Goods,192.58,1,February
+2023-09-05,Product A,Electronics,179.42,11,September
+2023-12-02,Product C,Clothing,89.26,14,December
+2023-04-25,Product E,Electronics,94.82,5,April
+2023-06-07,Product B,Electronics,108.6,2,June
+2023-03-19,Product C,Books,117.87,4,March
+2023-11-18,Product C,Home Goods,206.19,7,November
+2023-08-23,Product B,Clothing,119.58,5,August
+2023-10-26,Product C,Toys,141.24,12,October
+2023-05-19,Product C,Toys,190.86,6,May
+2023-12-25,Product E,Electronics,76.76,2,December
+2023-04-28,Product A,Books,136.03,3,April
+2023-02-19,Product A,Books,121.45,7,February
+2023-07-29,Product E,Toys,193.26,11,July
+2023-04-26,Product D,Clothing,136.49,2,April
+2023-12-25,Product B,Home Goods,199.8,12,December
+2023-01-19,Product C,Clothing,109.37,6,January
+2023-12-20,Product A,Home Goods,171.27,5,December
+2023-04-17,Product A,Toys,217.63,10,April
+2023-03-12,Product B,Home Goods,111.09,1,March
+2023-09-01,Product B,Books,108.85,12,September
+2023-10-15,Product C,Electronics,177.25,11,October
+2023-01-10,Product A,Electronics,114.5,10,January
+2023-01-23,Product E,Toys,97.96,11,January
+2023-11-01,Product C,Clothing,149.21,11,November
+2023-01-04,Product B,Books,86.32,2,January
+2023-03-12,Product B,Electronics,131.21,4,March
+2023-12-08,Product D,Electronics,150.96,1,December
+2023-04-23,Product C,Books,104.64,2,April
+2023-05-19,Product A,Books,100.33,13,May
+2023-07-17,Product E,Electronics,135.73,8,July
+2023-04-10,Product D,Clothing,131.97,6,April
+2023-04-27,Product E,Toys,153.18,2,April
+2023-02-23,Product C,Toys,134.76,12,February
+2023-08-03,Product C,Books,140.43,6,August
+2023-07-04,Product B,Toys,173.9,10,July
+2023-04-11,Product E,Electronics,103.01,9,April
+2023-03-26,Product A,Books,201.83,9,March
+2023-06-28,Product A,Books,135.65,5,June
+2023-02-19,Product B,Books,81.57,7,February
+2023-05-10,Product D,Clothing,127.13,11,May
+2023-01-19,Product E,Toys,156.9,14,January
+2023-01-14,Product A,Books,145.68,7,January
+2023-06-25,Product C,Home Goods,335.18,12,June
+2023-03-11,Product E,Electronics,214.64,3,March
+2023-02-15,Product D,Toys,162.71,7,February
+2023-02-21,Product D,Books,130.85,1,February
+2023-03-28,Product B,Home Goods,92.65,9,March
+2023-03-05,Product B,Toys,194.41,10,March
+2023-02-07,Product A,Clothing,124.45,6,February
+2023-07-17,Product D,Toys,144.51,5,July
+2023-02-16,Product D,Toys,147.8,7,February
+2023-08-25,Product E,Clothing,99.73,5,August
+2023-03-08,Product E,Toys,125.79,10,March
+2023-12-12,Product C,Electronics,194.07,5,December
+2023-09-27,Product D,Electronics,135.55,11,September
+2023-03-15,Product E,Clothing,117.15,10,March
+2023-07-25,Product D,Books,133.61,11,July
+2023-12-29,Product A,Home Goods,150.63,7,December
+2023-07-03,Product B,Books,141.59,10,July
+2023-01-16,Product A,Toys,155.2,7,January
+2023-08-29,Product E,Home Goods,128.61,13,August
+2023-11-22,Product C,Clothing,142.16,11,November
+2023-03-21,Product A,Clothing,132.26,3,March
+2023-06-23,Product C,Home Goods,161.13,3,June
+2023-01-11,Product C,Electronics,145.02,10,January
+2023-01-06,Product B,Home Goods,96.4,12,January
+2023-11-08,Product A,Toys,160.47,13,November
+2023-12-08,Product C,Electronics,161.25,3,December
+2023-02-25,Product B,Clothing,294.57,6,February
+2023-02-17,Product B,Books,166.11,6,February
+2023-03-27,Product D,Books,138.38,13,March
+2023-01-30,Product C,Toys,115.45,13,January
+2023-05-11,Product C,Books,148.37,3,May
+2023-10-27,Product D,Home Goods,110.37,3,October
+2023-09-22,Product B,Home Goods,193.99,8,September
+2023-05-18,Product A,Books,80.72,8,May
+2023-05-26,Product A,Home Goods,181.14,7,May
+2023-11-10,Product D,Toys,300.35,10,November
+2023-12-16,Product C,Electronics,270.86,4,December
+2023-08-15,Product C,Toys,107.15,4,August
+2023-04-15,Product A,Toys,93.8,3,April
+2023-02-10,Product A,Home Goods,219.77,5,February
+2023-09-17,Product A,Electronics,172.83,3,September
+2023-09-17,Product B,Home Goods,136.47,13,September
+2023-02-09,Product C,Clothing,178.15,8,February
+2023-10-31,Product B,Home Goods,109.77,7,October
+2023-06-03,Product B,Home Goods,174.13,13,June
+2023-03-02,Product E,Home Goods,102.89,3,March
+2023-02-19,Product B,Electronics,178.45,9,February
+2023-03-28,Product B,Home Goods,130.07,12,March
+2023-10-26,Product D,Electronics,155.06,14,October
+2023-03-05,Product B,Books,156.77,13,March
+2023-10-21,Product C,Clothing,256.6,5,October
+2023-07-28,Product D,Electronics,168.65,9,July
+2023-12-03,Product E,Books,197.0,7,December
+2023-11-13,Product A,Electronics,167.27,7,November
+2023-06-10,Product E,Electronics,140.17,6,June
+2023-04-11,Product B,Clothing,133.26,2,April
+2023-12-10,Product A,Toys,133.09,9,December
+2023-03-14,Product B,Toys,176.84,6,March
+2023-12-11,Product E,Electronics,230.64,8,December
+2023-04-11,Product B,Home Goods,233.24,1,April
+2023-06-17,Product B,Books,132.12,5,June
+2023-11-08,Product A,Home Goods,124.31,1,November
+2023-06-08,Product A,Electronics,213.14,10,June
+2023-12-01,Product A,Electronics,127.34,11,December
+2023-01-25,Product A,Electronics,222.33,14,January
+2023-10-12,Product A,Electronics,185.27,8,October
+2023-12-03,Product A,Toys,127.52,8,December
+2023-10-21,Product C,Electronics,193.51,1,October
+2023-07-23,Product A,Toys,133.46,9,July
+2023-08-09,Product B,Toys,366.96,2,August
+2023-11-08,Product D,Electronics,141.07,12,November
+2023-08-26,Product B,Clothing,143.45,9,August
+2023-01-19,Product C,Books,68.5,1,January
+2023-07-01,Product A,Home Goods,161.54,12,July
+2023-09-19,Product A,Toys,97.3,10,September
+2023-08-15,Product A,Books,192.34,14,August
+2023-12-07,Product A,Clothing,106.25,14,December
+2023-06-13,Product A,Home Goods,147.07,4,June
+2023-05-22,Product A,Toys,182.83,9,May
+2023-06-11,Product A,Electronics,168.99,7,June
+2023-02-26,Product B,Clothing,249.65,11,February
+2023-04-19,Product A,Toys,81.14,6,April
+2023-11-14,Product B,Clothing,123.62,5,November
+2023-04-14,Product B,Electronics,170.16,11,April
+2023-09-15,Product C,Electronics,95.34,9,September
+2023-03-04,Product A,Toys,220.98,2,March
+2023-01-24,Product D,Electronics,173.7,14,January
+2023-08-04,Product C,Books,131.49,13,August
+2023-09-20,Product A,Home Goods,157.3,11,September
+2023-11-10,Product D,Toys,77.72,14,November
+2023-11-01,Product E,Clothing,122.99,12,November
+2023-03-07,Product A,Books,79.34,2,March
+2023-01-05,Product A,Toys,128.35,11,January
+2023-06-08,Product D,Electronics,84.36,12,June
+2023-10-24,Product C,Electronics,134.06,9,October
+2023-11-30,Product A,Electronics,73.14,12,November
+2023-06-30,Product B,Clothing,200.61,8,June
+2023-08-14,Product B,Books,79.6,11,August
+2023-07-20,Product C,Home Goods,169.22,9,July
+2023-04-08,Product B,Clothing,200.5,8,April
+2023-11-11,Product C,Home Goods,109.65,12,November
+2023-07-07,Product A,Home Goods,123.0,1,July
+2023-09-02,Product A,Electronics,205.3,4,September
+2023-01-24,Product C,Clothing,113.2,14,January
+2023-02-24,Product D,Toys,224.17,9,February
+2023-12-13,Product B,Home Goods,123.24,2,December
+2023-07-20,Product B,Home Goods,223.63,3,July
+2023-08-11,Product A,Books,122.7,10,August
+2023-05-11,Product B,Toys,277.13,8,May
+2023-10-16,Product A,Home Goods,141.52,8,October
+2023-05-23,Product A,Electronics,254.12,7,May
+2023-03-05,Product B,Books,143.77,14,March
+2023-12-22,Product A,Toys,161.6,13,December
+2023-06-12,Product B,Home Goods,198.94,13,June
+2023-03-31,Product A,Toys,177.81,5,March
+2023-07-24,Product B,Books,195.15,9,July
+2023-12-02,Product A,Books,157.86,4,December
+2023-03-15,Product D,Clothing,132.44,6,March
+2023-03-28,Product C,Home Goods,159.96,2,March
+2023-02-17,Product C,Books,188.73,2,February
+2023-06-02,Product D,Clothing,197.81,2,June
+2023-11-03,Product B,Clothing,132.27,10,November
+2023-01-13,Product A,Toys,158.65,7,January
+2023-09-08,Product B,Toys,196.11,13,September
+2023-11-28,Product C,Clothing,353.62,2,November
+2023-09-11,Product C,Toys,129.95,12,September
+2023-11-13,Product B,Books,142.88,13,November
+2023-11-28,Product A,Electronics,96.63,2,November
+2023-05-31,Product A,Books,139.62,9,May
+2023-09-05,Product B,Clothing,159.8,7,September
+2023-10-15,Product C,Clothing,144.82,11,October
+2023-04-16,Product C,Books,114.51,3,April
+2023-08-17,Product E,Toys,110.08,7,August
+2023-04-27,Product C,Clothing,221.5,5,April
+2023-09-28,Product A,Home Goods,170.78,10,September
+2023-10-27,Product A,Toys,134.83,14,October
+2023-05-22,Product A,Books,127.49,14,May
+2023-05-22,Product A,Toys,196.56,6,May
+2023-05-27,Product A,Books,88.4,13,May
+2023-05-09,Product A,Clothing,246.09,12,May
+2023-06-17,Product A,Toys,213.92,8,June
+2023-09-08,Product A,Books,102.54,9,September
+2023-07-31,Product D,Clothing,175.31,1,July
+2023-05-04,Product A,Home Goods,109.02,3,May
+2023-05-12,Product B,Books,101.97,11,May
+2023-08-27,Product B,Home Goods,89.63,7,August
+2023-01-11,Product E,Home Goods,98.75,6,January
+2023-08-10,Product A,Electronics,258.4,7,August
+2023-04-23,Product B,Toys,230.21,8,April
+2023-01-30,Product D,Home Goods,112.69,3,January
+2023-04-25,Product D,Electronics,224.65,2,April
+2023-11-10,Product A,Clothing,195.51,12,November
+2023-03-18,Product A,Books,156.21,7,March
+2023-03-05,Product C,Home Goods,160.7,12,March
+2023-08-16,Product E,Toys,231.54,12,August
+2023-04-20,Product C,Electronics,84.76,12,April
+2023-08-24,Product C,Home Goods,79.35,11,August
+2023-08-13,Product D,Home Goods,291.77,3,August
+2023-02-18,Product A,Books,150.42,12,February
+2023-01-23,Product B,Books,91.58,11,January
+2023-11-02,Product B,Books,187.77,4,November
+2023-05-24,Product B,Electronics,98.06,13,May
+2023-07-25,Product A,Books,172.46,14,July
+2023-08-31,Product A,Toys,168.07,1,August
+2023-12-14,Product C,Home Goods,175.14,5,December
+2023-10-12,Product A,Clothing,176.82,10,October
+2023-01-19,Product C,Toys,135.39,3,January
+2023-05-13,Product A,Toys,92.7,2,May
+2023-08-15,Product B,Books,192.4,3,August
+2023-12-28,Product B,Electronics,159.57,8,December
+2023-09-05,Product A,Home Goods,146.3,6,September
+2023-06-08,Product B,Electronics,94.15,13,June
+2023-06-19,Product A,Home Goods,117.29,14,June
+2023-07-29,Product A,Home Goods,155.74,7,July
+2023-07-23,Product E,Electronics,294.2,12,July
+2023-04-20,Product B,Toys,101.18,6,April
+2023-05-08,Product D,Home Goods,131.12,6,May
+2023-07-13,Product A,Electronics,199.35,12,July
+2023-09-08,Product C,Home Goods,105.48,3,September
+2023-04-22,Product D,Clothing,200.17,12,April
+2023-06-01,Product C,Toys,86.27,13,June
+2023-01-11,Product B,Books,91.67,14,January
+2023-01-12,Product B,Home Goods,214.41,8,January
+2023-06-02,Product B,Clothing,182.29,12,June
+2023-03-05,Product E,Books,234.42,7,March
+2023-11-13,Product D,Books,249.96,7,November
+2023-12-11,Product E,Home Goods,217.19,6,December
+2023-12-22,Product A,Electronics,92.19,5,December
+2023-02-02,Product C,Home Goods,130.92,10,February
+2023-01-03,Product E,Clothing,65.36,8,January
+2023-09-08,Product A,Books,143.61,5,September
+2023-03-02,Product A,Home Goods,177.78,9,March
+2023-02-08,Product C,Electronics,190.02,9,February
+2023-01-18,Product C,Home Goods,128.82,1,January
+2023-12-02,Product D,Toys,122.64,6,December
+2023-05-07,Product A,Electronics,150.12,7,May
+2023-06-01,Product D,Clothing,147.51,3,June
+2023-10-22,Product A,Books,114.58,7,October
+2023-06-13,Product A,Home Goods,96.69,11,June
+2023-08-14,Product A,Electronics,127.51,11,August
+2023-03-06,Product D,Toys,173.67,7,March
+2023-03-02,Product C,Electronics,140.47,14,March
+2023-07-09,Product B,Toys,80.99,13,July
+2023-11-04,Product B,Clothing,79.82,11,November
+2023-08-25,Product D,Books,163.6,2,August
+2023-04-07,Product B,Clothing,149.26,7,April
+2023-02-04,Product B,Electronics,195.92,5,February
+2023-11-19,Product B,Toys,151.98,9,November
+2023-05-25,Product B,Electronics,150.61,7,May
+2023-05-10,Product C,Electronics,138.81,11,May
+2023-11-28,Product B,Home Goods,184.21,13,November
+2023-04-20,Product A,Clothing,233.88,12,April
+2023-03-12,Product D,Toys,106.05,2,March
+2023-03-24,Product B,Home Goods,223.78,8,March
+2023-07-16,Product B,Clothing,132.78,3,July
+2023-09-17,Product E,Home Goods,130.26,8,September
+2023-12-17,Product C,Toys,232.65,3,December
+2023-12-10,Product A,Electronics,218.31,10,December
+2023-08-06,Product E,Electronics,128.86,7,August
+2023-11-25,Product C,Clothing,110.76,2,November
+2023-05-08,Product B,Books,178.55,4,May
+2023-01-11,Product A,Clothing,157.63,11,January
+2023-02-14,Product D,Books,127.26,6,February
+2023-10-13,Product C,Home Goods,215.75,11,October
+2023-01-20,Product B,Home Goods,138.59,9,January
+2023-04-26,Product D,Toys,113.83,5,April
+2023-11-03,Product D,Books,168.83,13,November
+2023-06-27,Product A,Toys,99.98,9,June
+2023-12-29,Product A,Books,198.82,10,December
+2023-03-17,Product C,Clothing,152.21,8,March
+2023-10-25,Product A,Electronics,156.28,13,October
+2023-07-11,Product C,Electronics,123.77,13,July
+2023-08-01,Product D,Clothing,131.81,1,August
+2023-06-07,Product D,Electronics,104.34,7,June
+2023-02-01,Product B,Books,159.98,4,February
+2023-08-10,Product D,Toys,104.02,5,August
+2023-01-28,Product A,Electronics,102.64,6,January
+2023-12-16,Product D,Books,136.56,5,December
+2023-09-22,Product A,Home Goods,195.62,12,September
+2023-09-17,Product B,Books,106.57,1,September
+2023-06-17,Product D,Toys,192.58,12,June
+2023-12-25,Product A,Books,173.28,9,December
+2023-02-26,Product A,Clothing,80.04,2,February
+2023-12-28,Product C,Toys,151.05,9,December
+2023-07-25,Product C,Home Goods,105.25,10,July
+2023-08-12,Product C,Clothing,144.05,2,August
+2023-10-22,Product C,Books,128.93,9,October
+2023-01-13,Product B,Toys,247.73,6,January
+2023-12-28,Product A,Home Goods,171.06,11,December
+2023-11-21,Product B,Clothing,130.79,9,November
+2023-07-09,Product A,Home Goods,154.19,13,July
+2023-09-09,Product E,Books,189.3,6,September
+2023-08-30,Product C,Home Goods,144.71,6,August
+2023-09-13,Product B,Electronics,239.74,13,September
+2023-09-19,Product B,Clothing,146.58,11,September
+2023-06-22,Product E,Home Goods,161.41,14,June
+2023-04-12,Product A,Books,139.86,2,April
+2023-03-18,Product C,Books,117.28,8,March
+2023-09-22,Product B,Home Goods,127.06,3,September
+2023-03-31,Product C,Books,142.02,7,March
+2023-09-24,Product A,Toys,203.74,5,September
+2023-09-22,Product D,Toys,216.67,3,September
+2023-11-21,Product E,Toys,249.9,1,November
+2023-07-17,Product C,Electronics,116.48,8,July
+2023-08-03,Product C,Home Goods,182.38,3,August
+2023-03-14,Product E,Electronics,207.7,2,March
+2023-09-18,Product C,Books,110.34,1,September
+2023-10-08,Product A,Electronics,149.31,4,October
+2023-11-20,Product C,Books,88.21,13,November
+2023-04-07,Product C,Books,175.38,8,April
+2023-01-01,Product B,Clothing,215.65,13,January
+2023-08-15,Product C,Toys,97.15,3,August
+2023-12-26,Product E,Books,119.45,14,December
+2023-11-05,Product E,Clothing,118.45,1,November
+2023-04-25,Product B,Toys,108.71,4,April
+2023-10-09,Product A,Books,149.61,9,October
+2023-02-10,Product E,Books,170.43,13,February
+2023-02-22,Product A,Electronics,193.48,12,February
+2023-01-29,Product E,Toys,250.93,14,January
+2023-10-23,Product D,Books,148.59,11,October
+2023-11-25,Product B,Home Goods,134.29,2,November
+2023-07-05,Product C,Electronics,248.43,9,July
+2023-06-09,Product B,Toys,149.13,2,June
+2023-01-17,Product A,Books,126.81,13,January
+2023-09-11,Product B,Books,226.56,3,September
+2023-08-27,Product D,Home Goods,135.87,7,August
+2023-07-31,Product A,Toys,178.18,3,July
+2023-10-01,Product B,Books,125.07,9,October
+2023-07-21,Product B,Electronics,174.29,6,July
+2023-12-10,Product B,Home Goods,180.03,3,December
+2023-02-03,Product E,Toys,226.4,9,February
+2023-02-19,Product B,Home Goods,135.27,1,February
+2023-01-01,Product B,Electronics,153.39,10,January
+2023-02-22,Product C,Toys,165.92,3,February
+2023-11-12,Product B,Home Goods,147.68,1,November
+2023-11-27,Product A,Clothing,118.2,2,November
+2023-01-24,Product B,Electronics,201.03,12,January
+2023-05-10,Product A,Electronics,151.26,8,May
+2023-05-01,Product A,Electronics,94.06,7,May
+2023-06-18,Product B,Clothing,104.7,2,June
+2023-10-13,Product B,Clothing,133.07,2,October
+2023-02-28,Product E,Books,124.52,9,February
+2023-08-02,Product C,Books,106.35,13,August
+2023-08-31,Product C,Home Goods,237.7,6,August
+2023-01-13,Product A,Clothing,198.09,5,January
+2023-04-29,Product C,Clothing,216.72,10,April
+2023-03-23,Product A,Books,235.0,6,March
+2023-03-04,Product E,Toys,132.87,9,March
+2023-03-01,Product A,Books,174.28,11,March
+2023-10-25,Product B,Home Goods,79.61,7,October
+2023-09-18,Product A,Books,170.65,10,September
+2023-03-06,Product E,Electronics,116.07,10,March
+2023-09-15,Product B,Home Goods,125.69,14,September
+2023-10-17,Product C,Home Goods,158.27,9,October
+2023-07-21,Product A,Toys,144.54,4,July
+2023-08-20,Product C,Clothing,124.15,2,August
+2023-08-28,Product A,Home Goods,125.94,12,August
+2023-04-29,Product D,Clothing,110.23,8,April
+2023-11-22,Product A,Books,98.78,4,November
+2023-01-18,Product A,Electronics,97.31,13,January
+2023-09-17,Product A,Toys,185.3,9,September
+2023-05-14,Product B,Clothing,135.13,4,May
+2023-03-29,Product C,Home Goods,222.91,8,March
+2023-08-14,Product D,Home Goods,163.82,13,August
+2023-11-17,Product B,Clothing,105.12,9,November
+2023-11-11,Product B,Home Goods,104.53,10,November
+2023-10-28,Product B,Books,149.85,4,October
+2023-08-20,Product B,Home Goods,146.7,1,August
+2023-07-01,Product C,Home Goods,126.48,3,July
+2023-03-05,Product A,Electronics,162.23,9,March
+2023-03-23,Product A,Home Goods,157.82,4,March
+2023-11-11,Product D,Electronics,149.03,5,November
+2023-09-16,Product E,Toys,202.48,7,September
+2023-04-21,Product B,Electronics,246.27,5,April
+2023-08-03,Product A,Books,145.21,4,August
+2023-12-19,Product C,Electronics,132.68,2,December
+2023-04-29,Product B,Toys,251.58,2,April
+2023-03-11,Product A,Books,153.15,13,March
+2023-10-14,Product A,Clothing,183.11,13,October
+2023-08-23,Product C,Clothing,115.71,4,August
+2023-11-25,Product C,Electronics,115.16,10,November
+2023-10-10,Product A,Electronics,133.01,13,October
+2023-07-02,Product A,Toys,151.82,10,July
+2023-11-17,Product A,Toys,155.31,13,November
+2023-02-18,Product C,Home Goods,128.48,9,February
+2023-04-15,Product A,Toys,165.51,8,April
+2023-08-21,Product D,Books,230.3,14,August
+2023-12-16,Product A,Electronics,116.31,9,December
+2023-04-11,Product C,Books,180.02,14,April
+2023-02-10,Product A,Toys,144.34,5,February
+2023-07-17,Product A,Books,124.55,11,July
+2023-10-08,Product A,Books,104.12,3,October
+2023-02-22,Product C,Books,153.22,5,February
+2023-02-28,Product D,Toys,132.81,13,February
+2023-06-01,Product D,Books,149.81,10,June
+2023-08-06,Product B,Home Goods,100.95,13,August
+2023-05-07,Product C,Toys,152.12,4,May
+2023-10-17,Product A,Books,149.19,8,October
+2023-02-03,Product A,Toys,184.28,13,February
+2023-06-16,Product D,Clothing,223.92,12,June
+2023-10-25,Product A,Home Goods,163.48,5,October
+2023-02-22,Product A,Clothing,153.43,12,February
+2023-11-09,Product C,Clothing,91.46,4,November
+2023-08-09,Product B,Home Goods,198.84,7,August
+2023-07-07,Product D,Home Goods,115.54,2,July
+2023-01-12,Product D,Electronics,114.12,6,January
+2023-12-12,Product B,Home Goods,146.67,8,December
+2023-12-17,Product A,Clothing,135.78,12,December
+2023-10-13,Product B,Home Goods,162.16,7,October
+2023-08-17,Product C,Toys,150.81,7,August
+2023-09-28,Product A,Electronics,188.57,8,September
+2023-09-08,Product C,Clothing,137.36,7,September
+2023-12-10,Product B,Electronics,152.61,5,December
+2023-03-23,Product C,Clothing,233.79,7,March
+2023-01-08,Product B,Toys,116.05,13,January
+2023-10-31,Product A,Electronics,108.26,14,October
+2023-06-13,Product E,Books,147.68,10,June
+2023-08-17,Product D,Clothing,91.93,3,August
+2023-04-12,Product A,Books,110.34,5,April
+2023-01-05,Product D,Electronics,102.98,7,January
+2023-11-16,Product B,Books,75.85,9,November
+2023-07-30,Product D,Books,117.51,2,July
+2023-12-27,Product D,Electronics,132.08,4,December
+2023-09-03,Product A,Books,101.47,7,September
+2023-12-28,Product A,Books,78.52,1,December
+2023-05-30,Product B,Toys,127.22,13,May
+2023-02-21,Product C,Books,132.31,2,February
+2023-04-27,Product A,Books,90.66,9,April
+2023-02-01,Product A,Books,126.55,13,February
+2023-11-20,Product D,Home Goods,137.25,10,November
+2023-07-01,Product E,Toys,152.38,7,July
+2023-08-29,Product B,Books,168.57,12,August
+2023-10-09,Product A,Toys,184.01,10,October
+2023-12-13,Product A,Clothing,115.47,7,December
+2023-04-30,Product A,Clothing,117.45,6,April
+2023-02-08,Product E,Books,104.26,3,February
+2023-04-21,Product C,Toys,133.28,3,April
+2023-11-24,Product A,Toys,74.38,2,November
+2023-07-23,Product C,Home Goods,95.86,11,July
+2023-12-03,Product C,Clothing,138.88,6,December
+2023-01-05,Product D,Toys,68.48,4,January
+2023-03-19,Product A,Toys,151.64,5,March
+2023-07-22,Product A,Home Goods,104.77,3,July
+2023-07-14,Product A,Home Goods,190.28,6,July
+2023-08-04,Product D,Electronics,120.48,12,August
+2023-11-14,Product C,Toys,133.95,3,November
+2023-06-23,Product C,Toys,138.27,14,June
+2023-04-21,Product C,Home Goods,155.66,14,April
+2023-12-07,Product A,Home Goods,136.66,8,December
+2023-10-09,Product E,Toys,142.22,9,October
+2023-08-15,Product B,Toys,103.45,4,August
+2023-11-04,Product B,Toys,112.46,9,November
+2023-07-09,Product B,Home Goods,138.23,12,July
+2023-11-05,Product A,Toys,144.03,7,November
+2023-03-29,Product A,Toys,228.54,3,March
+2023-11-20,Product C,Books,162.24,7,November
+2023-01-26,Product A,Electronics,101.59,14,January
+2023-07-03,Product C,Clothing,130.61,1,July
+2023-07-13,Product A,Electronics,128.21,3,July
+2023-04-04,Product B,Books,134.29,6,April
+2023-05-04,Product A,Clothing,149.59,4,May
+2023-12-05,Product B,Toys,123.21,7,December
+2023-09-06,Product C,Books,206.16,14,September
+2023-11-15,Product A,Toys,99.02,3,November
+2023-07-26,Product C,Home Goods,138.19,1,July
+2023-12-28,Product B,Books,242.44,9,December
+2023-10-18,Product C,Home Goods,117.94,6,October
+2023-10-28,Product E,Books,118.54,8,October
+2023-10-26,Product C,Books,236.75,3,October
+2023-09-08,Product A,Electronics,139.54,12,September
+2023-04-03,Product C,Toys,198.15,4,April
+2023-10-03,Product A,Books,120.49,3,October
+2023-03-30,Product B,Toys,97.85,10,March
+2023-06-24,Product C,Home Goods,99.52,1,June
+2023-06-04,Product B,Toys,157.14,13,June
+2023-11-16,Product D,Home Goods,112.83,13,November
+2023-08-11,Product A,Toys,149.66,7,August
+2023-08-11,Product A,Electronics,102.57,11,August
+2023-06-15,Product C,Electronics,165.04,10,June
+2023-04-21,Product B,Electronics,265.22,2,April
+2023-03-02,Product B,Electronics,65.05,9,March
+2023-03-13,Product A,Electronics,207.87,6,March
+2023-05-24,Product D,Home Goods,116.14,8,May
+2023-06-21,Product D,Books,87.83,2,June
+2023-04-12,Product C,Toys,79.53,7,April
+2023-09-30,Product A,Electronics,276.32,6,September
+2023-06-09,Product C,Home Goods,143.81,13,June
+2023-03-14,Product B,Home Goods,117.68,14,March
+2023-06-22,Product A,Home Goods,127.38,9,June
+2023-09-08,Product E,Books,88.19,7,September
+2023-10-06,Product A,Toys,150.41,1,October
+2023-02-23,Product E,Books,169.3,14,February
+2023-06-24,Product B,Clothing,103.18,8,June
