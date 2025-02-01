@@ -1,0 +1,13 @@
+
+version: "3.1"
+
+intents:
+- faq_hours
+- faq_contact
+
+responses:
+  utter_hours:
+  - text: "We're open Monday-Friday, 9 AM to 5 PM."
+
+  utter_contact:
+  - text: "Contact us at support@example.com or 123-456-7890."

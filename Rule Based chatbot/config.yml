@@ -1,0 +1,12 @@
+# config.yml
+version: "3.1"
+
+language: en  # <–– Add this (required by Rasa)
+pipeline: []  # <–– Explicitly disable ML
+
+policies:
+- name: RulePolicy
+  core_fallback_threshold: 0.0
+assistant_id: 20250130-192949-hot-pointelle
+# In config.yml
+log_level: ERROR

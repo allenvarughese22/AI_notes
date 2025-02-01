@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  rasa-server:
+    image: rasa/rasa:3.6.15-full
+    container_name: rasa-server
+    ports:
+      - "5005:5005"
+    volumes:
+      - ./models:/app/models
+      - ./config:/app/config
+      - ./data:/app/data
+    command: run --enable-api --cors "*" --debug
+
+  rasa-shell:
+    image: rasa/rasa:3.6.15-full
+    container_name: rasa-shell
+    depends_on:
+      - rasa-server
+    entrypoint: ["rasa", "shell", "--server", "http://rasa-server:5005"]

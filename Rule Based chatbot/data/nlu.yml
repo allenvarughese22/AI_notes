@@ -1,0 +1,14 @@
+version: "3.1"
+
+nlu:
+- intent: faq_hours
+  examples: |
+    - What are your [working hours](faq_type)?
+    - When do you open?
+    - Are you open on weekends?
+
+- intent: faq_contact
+  examples: |
+    - How can I [contact](faq_type) you?
+    - What's your email?
+    - Phone number?

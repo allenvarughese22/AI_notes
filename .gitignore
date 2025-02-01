@@ -1,0 +1,14 @@
+ 
+# Exclude credentials and tokens
+credentials.json
+token.json
+
+# Exclude Python virtual environments and cache
+venv/
+__pycache__/
+*.pyc
+
+# Exclude IDE/config files
+.vscode/
+.idea/
+.env
